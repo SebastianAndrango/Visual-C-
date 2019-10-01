@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\bin\Debug\WinAppRectangleV2.exe.config
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\bin\Debug\WinAppRectangleV2.exe
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\bin\Debug\WinAppRectangleV2.pdb
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\obj\Debug\WinAppRectangleV2.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\obj\Debug\WinAppRectangleV2.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\obj\Debug\WinAppRectangleV2.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\obj\Debug\WinAppRectangleV2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\obj\Debug\WinAppRectangleV2.exe
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\obj\Debug\WinAppRectangleV2.pdb
+C:\Users\USUARIO\source\repos\WinAppRectangleV2\WinAppRectangleV2\obj\Debug\WinAppRectangleV2.frmRectangle.resources
