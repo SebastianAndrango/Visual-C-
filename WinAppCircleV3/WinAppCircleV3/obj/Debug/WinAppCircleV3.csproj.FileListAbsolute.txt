@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\bin\Debug\WinAppCircleV3.exe.config
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\bin\Debug\WinAppCircleV3.exe
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\bin\Debug\WinAppCircleV3.pdb
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\obj\Debug\WinAppCircleV3.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\obj\Debug\WinAppCircleV3.frmCircle.resources
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\obj\Debug\WinAppCircleV3.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\obj\Debug\WinAppCircleV3.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\obj\Debug\WinAppCircleV3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\obj\Debug\WinAppCircleV3.exe
+C:\Users\USUARIO\source\repos\WinAppCircleV3\WinAppCircleV3\obj\Debug\WinAppCircleV3.pdb
